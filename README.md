@@ -111,6 +111,9 @@ pneumonia_detection_project/
 
 This project demonstrates a complete end-to-end deep learning pipeline — from preprocessing medical imaging data and training a CNN model to evaluating its performance using classification metrics and deploying it as a web application with Flask. The model, trained over 10 epochs, achieved high accuracy and is capable of making real-time pneumonia predictions from chest X-rays. It shows how AI can be practically applied to enhance diagnostic processes in the healthcare sector.
 
+> **Developed by:** Sadiq  
+> **Institution:** Learn Logic AI  
+> **Date:** April 5, 2025
 ---
 
 
