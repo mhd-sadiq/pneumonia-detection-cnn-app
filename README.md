@@ -81,7 +81,7 @@ The model was deployed as a **Flask web application**. Key features include:
 To run the app:
 
 ```bash
-git clone https://github.com/yourusername/pneumonia-detection-cnn.git
+git clone https://github.com/mhd-sadiq/pneumonia-detection-cnn.git
 cd pneumonia-detection-cnn
 python app.py
 ```
@@ -113,7 +113,7 @@ This project demonstrates a complete end-to-end deep learning pipeline — from 
 
 > **Developed by:** Sadiq  
 > **Institution:** Learn Logic AI  
-> **Date:** April 5, 2025
+> **Date:** May 15, 2025
 ---
 
 
